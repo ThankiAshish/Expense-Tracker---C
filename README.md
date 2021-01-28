@@ -1,4 +1,4 @@
-# Expense-Tracker---C
+# Expense-Tracker-C
 
 - A Simple C Program which runs on basic mathematics.
 - It takes income/expense with description from user as input.
